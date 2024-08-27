@@ -1,0 +1,27 @@
+{
+  "name": "restfull-api-project",
+  "version": "1.0.0",
+  "description": "project realated to my backend practice with nodejs express and mongodb with react tottaly (MERN) project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Restfull api Project"
+  },
+  "keywords": [
+    "nodejs",
+    "reactjs",
+    "express",
+    "js",
+    "mongodb"
+  ],
+  "author": "vikas singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
