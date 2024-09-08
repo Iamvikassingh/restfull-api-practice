@@ -9,3 +9,12 @@ GET /api/ user / 2 - Get user by ID
 POST /api/ user - Create new user 
 PATCH /api/ users/1 - Edit the user with ID 1 
 DELETE /api/ users/1 - Delete the user with ID 1
+
+
+
+
+Schema - Define the structure
+Schema - Define the structure of the data
+schema - model
+
+using model we do crud operation
